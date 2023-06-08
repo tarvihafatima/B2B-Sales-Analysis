@@ -1,0 +1,146 @@
+2022-10-09 08:06:14.724996 Read Configurations from File
+2022-10-09 08:06:14.940638 Connected to Postgres Successfully
+2022-10-09 08:06:14.945919 Connected FileD:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 08:06:14.945919 Reading WebLog Data Line by Line
+2022-10-09 08:06:16.320310 Reading WebLog Data Line by Line
+2022-10-09 08:06:17.366244 Reading WebLog Data Line by Line
+2022-10-09 08:06:18.393759 Reading WebLog Data Line by Line
+2022-10-09 08:06:19.415512 Reading WebLog Data Line by Line
+2022-10-09 08:06:20.486407 Data Loaded into weblog Table
+2022-10-09 19:57:59.955213 Read Configurations from File
+2022-10-09 19:58:00.244738 Connected to Postgres Successfully
+2022-10-09 19:58:00.252055 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 19:58:00.252055 Reading WebLog Data Line by Line
+2022-10-09 19:59:21.548299 Read Configurations from File
+2022-10-09 19:59:21.744451 Connected to Postgres Successfully
+2022-10-09 19:59:21.750646 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 19:59:21.750646 Reading WebLog Data Line by Line
+2022-10-09 20:01:09.364244 Read Configurations from File
+2022-10-09 20:01:09.553269 Connected to Postgres Successfully
+2022-10-09 20:01:09.561269 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 20:01:09.561269 Reading WebLog Data Line by Line
+2022-10-09 20:01:31.490646 Read Configurations from File
+2022-10-09 20:01:31.697185 Connected to Postgres Successfully
+2022-10-09 20:01:31.702385 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 20:01:31.702385 Reading WebLog Data Line by Line
+2022-10-09 20:02:03.393789 Read Configurations from File
+2022-10-09 20:02:03.631698 Connected to Postgres Successfully
+2022-10-09 20:02:03.637696 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 20:02:03.637696 Reading WebLog Data Line by Line
+2022-10-09 20:02:25.029709 Read Configurations from File
+2022-10-09 20:02:25.255343 Connected to Postgres Successfully
+2022-10-09 20:02:25.265531 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 20:02:25.265531 Reading WebLog Data Line by Line
+2022-10-09 20:03:35.672069 Read Configurations from File
+2022-10-09 20:03:35.863822 Connected to Postgres Successfully
+2022-10-09 20:03:35.870518 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 20:03:35.870518 Reading WebLog Data Line by Line
+2022-10-09 20:03:38.714955 Data Loaded into weblog Table
+2022-10-09 21:40:56.035782 Read Configurations from File
+2022-10-09 21:40:56.236851 Connected to Postgres Successfully
+2022-10-09 21:40:56.254084 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 21:40:56.254084 Reading WebLog Data Line by Line
+2022-10-09 21:41:34.372317 Read Configurations from File
+2022-10-09 21:41:34.583325 Connected to Postgres Successfully
+2022-10-09 21:41:34.588979 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 21:41:34.588979 Reading WebLog Data Line by Line
+2022-10-09 21:41:37.537255 Data Loaded into weblog Table
+2022-10-09 22:04:44.485783 Read Configurations from File
+2022-10-09 22:04:44.825141 Connected to Postgres Successfully
+2022-10-09 22:04:44.835508 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-09 22:04:44.835508 Reading WebLog Data Line by Line
+2022-10-09 22:04:47.703344 Data Loaded into weblog Table
+2022-10-10 01:21:39.819990 Read Configurations from File
+2022-10-10 01:21:40.079390 Connected to Postgres Successfully
+2022-10-10 01:21:40.088895 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 01:21:40.088895 Reading WebLog Data Line by Line
+2022-10-10 01:21:42.971264 Data Loaded into weblog Table
+2022-10-10 02:56:54.592304 Read Configurations from File
+2022-10-10 02:56:54.885217 Connected to Postgres Successfully
+2022-10-10 02:56:54.896006 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 02:56:54.896006 Reading WebLog Data Line by Line
+2022-10-10 02:56:57.687660 Data Loaded into weblog Table
+2022-10-10 03:33:33.431982 Read Configurations from File
+2022-10-10 03:33:33.619600 Connected to Postgres Successfully
+2022-10-10 03:33:33.623633 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 03:33:33.623633 Reading WebLog Data Line by Line
+2022-10-10 03:33:36.776403 Data Loaded into weblog Table
+2022-10-10 03:35:19.606107 Read Configurations from File
+2022-10-10 03:35:19.807462 Connected to Postgres Successfully
+2022-10-10 03:35:19.812528 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 03:35:19.812528 Reading WebLog Data Line by Line
+2022-10-10 03:35:22.672120 Data Loaded into weblog Table
+2022-10-10 04:17:27.898968 Read Configurations from File
+2022-10-10 04:17:28.153312 Connected to Postgres Successfully
+2022-10-10 04:17:28.159055 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 04:17:28.159055 Reading WebLog Data Line by Line
+2022-10-10 04:17:31.065199 Data Loaded into weblog Table
+2022-10-10 20:25:04.475603 Read Configurations from File
+2022-10-10 20:25:04.715536 Connected to Postgres Successfully
+2022-10-10 20:25:04.720480 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 20:25:04.720480 Reading WebLog Data Line by Line
+2022-10-10 20:28:44.234198 Read Configurations from File
+2022-10-10 20:28:44.513558 Connected to Postgres Successfully
+2022-10-10 20:28:44.519546 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 20:28:44.519546 Reading WebLog Data Line by Line
+2022-10-10 20:32:06.027331 Read Configurations from File
+2022-10-10 20:32:06.292089 Connected to Postgres Successfully
+2022-10-10 20:32:06.298097 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 20:32:06.298097 Reading WebLog Data Line by Line
+2022-10-10 20:35:57.282002 Read Configurations from File
+2022-10-10 20:35:57.548821 Connected to Postgres Successfully
+2022-10-10 20:35:57.552821 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 20:35:57.552821 Reading WebLog Data Line by Line
+2022-10-10 20:37:02.027217 Read Configurations from File
+2022-10-10 20:37:02.252565 Connected to Postgres Successfully
+2022-10-10 20:37:02.256524 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 20:37:02.256524 Reading WebLog Data Line by Line
+2022-10-10 20:38:12.013150 Read Configurations from File
+2022-10-10 20:38:12.294813 Connected to Postgres Successfully
+2022-10-10 20:38:12.298813 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 20:38:12.298813 Reading WebLog Data Line by Line
+2022-10-10 20:38:31.389316 Data Loaded into weblog Table
+2022-10-10 21:05:17.583388 Read Configurations from File
+2022-10-10 21:05:17.803921 Connected to Postgres Successfully
+2022-10-10 21:05:17.818137 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 21:05:17.818137 Reading WebLog Data Line by Line
+2022-10-10 21:05:59.412196 Read Configurations from File
+2022-10-10 21:05:59.688952 Connected to Postgres Successfully
+2022-10-10 21:05:59.695920 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 21:05:59.696919 Reading WebLog Data Line by Line
+2022-10-10 21:06:18.849887 Data Loaded into weblog Table
+2022-10-10 21:13:13.935505 Read Configurations from File
+2022-10-10 21:13:14.150916 Connected to Postgres Successfully
+2022-10-10 21:13:14.159748 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 21:13:14.159748 Reading WebLog Data Line by Line
+2022-10-10 21:13:35.175906 Data Loaded into weblog Table
+2022-10-10 21:18:08.193862 Read Configurations from File
+2022-10-10 21:18:08.385620 Connected to Postgres Successfully
+2022-10-10 21:18:08.394620 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-10 21:18:08.394620 Reading WebLog Data Line by Line
+2022-10-10 21:18:29.059275 Data Loaded into weblog Table
+2022-10-11 02:39:39.372966 Read Configurations from File
+2022-10-11 02:39:39.615495 Connected to Postgres Successfully
+2022-10-11 02:39:39.623464 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-11 02:39:39.623464 Reading WebLog Data Line by Line
+2022-10-11 02:39:59.172156 Data Loaded into weblog Table
+2022-10-11 06:34:43.033627 Read Configurations from File
+2022-10-11 06:34:43.227458 Connected to Postgres Successfully
+2022-10-11 06:34:43.237121 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-11 06:34:43.237121 Reading WebLog Data Line by Line
+2022-10-11 06:35:05.782009 Data Loaded into weblog Table
+2022-10-11 07:04:16.471916 Read Configurations from File
+2022-10-11 07:04:16.694132 Connected to Postgres Successfully
+2022-10-11 07:04:16.699132 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-11 07:04:16.699132 Reading WebLog Data Line by Line
+2022-10-11 07:04:39.515913 Data Loaded into weblog Table
+2022-10-11 19:05:26.764398 Read Configurations from File
+2022-10-11 19:05:26.955082 Connected to Postgres Successfully
+2022-10-11 19:05:26.966392 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-11 19:05:26.966392 Reading WebLog Data Line by Line
+2022-10-11 19:05:52.280789 Data Loaded into weblog Table
+2022-10-11 21:43:05.356000 Read Configurations from File
+2022-10-11 21:43:05.662207 Connected to Postgres Successfully
+2022-10-11 21:43:05.671935 Connected File D:\B2B_Project\Sourcing\WebLog_Sourcing\WebLog Data.txt to Read Data
+2022-10-11 21:43:05.671935 Reading WebLog Data Line by Line
+2022-10-11 21:43:28.720764 Data Loaded into weblog Table

@@ -1,0 +1,424 @@
+2022-10-09 07:13:27.507703 Read Configurations from File
+2022-10-09 07:13:27.743863 Connected to Postgres Successfully
+2022-10-09 07:13:27.791441 Connected to Mysql Successfully
+2022-10-09 07:13:27.877732 Staging Tables Truncated
+2022-10-09 07:13:27.892729 Date loaded into Company Statging Table
+2022-10-09 07:13:27.899711 Date loaded into Supplier Statging Table
+2022-10-09 07:13:27.911248 Date loaded into Customer Statging Table
+2022-10-09 07:13:27.920854 Date loaded into Product Statging Table
+2022-10-09 07:13:27.926911 Date loaded into Company Catalog Statging Table
+2022-10-09 07:13:27.932912 Date loaded into Supplier Catalog Statging Table
+2022-10-09 07:13:27.939137 Date loaded into Order Staging Table
+2022-10-09 07:13:27.944194 Date loaded into Order Items Statging Table
+2022-10-09 07:13:27.944194 MySQL and Postgres Connections Closed 
+2022-10-09 23:22:07.401948 Read Configurations from File
+2022-10-09 23:22:07.659238 Connected to Postgres Successfully
+2022-10-09 23:22:07.782486 Connected to Mysql Successfully
+2022-10-09 23:22:07.828708 Staging Tables Truncated
+2022-10-09 23:22:07.847917 Data loaded into Company Statging Table
+2022-10-09 23:22:07.861004 Data loaded into Supplier Statging Table
+2022-10-09 23:22:07.873435 Data loaded into Customer Statging Table
+2022-10-09 23:22:07.886816 Data loaded into Product Statging Table
+2022-10-09 23:22:07.904172 Data loaded into Company Catalog Statging Table
+2022-10-09 23:22:07.923194 Data loaded into Supplier Catalog Statging Table
+2022-10-09 23:22:07.933579 Data loaded into Order Staging Table
+2022-10-09 23:22:07.944201 Data loaded into Order Items Statging Table
+2022-10-09 23:22:07.944201 MySQL and Postgres Connections Closed 
+2022-10-09 23:22:34.248359 Read Configurations from File
+2022-10-09 23:22:34.452943 Connected to Postgres Successfully
+2022-10-09 23:22:34.544742 Connected to Mysql Successfully
+2022-10-09 23:22:34.581713 Staging Tables Truncated
+2022-10-09 23:22:34.597973 Data loaded into Company Statging Table
+2022-10-09 23:22:34.603987 Data loaded into Supplier Statging Table
+2022-10-09 23:22:34.610198 Data loaded into Customer Statging Table
+2022-10-09 23:22:34.615128 Data loaded into Product Statging Table
+2022-10-09 23:22:34.623812 Data loaded into Company Catalog Statging Table
+2022-10-09 23:22:34.631801 Data loaded into Supplier Catalog Statging Table
+2022-10-09 23:22:34.636829 Data loaded into Order Staging Table
+2022-10-09 23:22:34.642974 Data loaded into Order Items Statging Table
+2022-10-09 23:22:34.643973 MySQL and Postgres Connections Closed 
+2022-10-10 02:56:49.587328 Read Configurations from File
+2022-10-10 02:56:49.856895 Connected to Postgres Successfully
+2022-10-10 02:56:49.959378 Connected to Mysql Successfully
+2022-10-10 02:56:50.062286 Staging Tables Truncated
+2022-10-10 02:56:50.063592 Data loaded into Company Statging Table
+2022-10-10 02:56:50.064616 Data loaded into Supplier Statging Table
+2022-10-10 02:56:50.065616 Data loaded into Customer Statging Table
+2022-10-10 02:56:50.065616 Data loaded into Product Statging Table
+2022-10-10 02:56:50.067186 Data loaded into Company Catalog Statging Table
+2022-10-10 02:56:50.067686 Data loaded into Supplier Catalog Statging Table
+2022-10-10 02:56:50.068712 Data loaded into Order Staging Table
+2022-10-10 02:56:50.068712 Data loaded into Order Items Statging Table
+2022-10-10 02:56:50.069713 MySQL and Postgres Connections Closed 
+2022-10-10 03:05:20.856143 Read Configurations from File
+2022-10-10 03:05:21.072416 Connected to Postgres Successfully
+2022-10-10 03:05:21.164596 Connected to Mysql Successfully
+2022-10-10 03:05:21.251238 Staging Tables Truncated
+2022-10-10 03:05:21.253322 Data loaded into Company Statging Table
+2022-10-10 03:05:21.254243 Data loaded into Supplier Statging Table
+2022-10-10 03:05:21.254243 Data loaded into Customer Statging Table
+2022-10-10 03:05:21.255259 Data loaded into Product Statging Table
+2022-10-10 03:05:21.255259 Data loaded into Company Catalog Statging Table
+2022-10-10 03:05:21.256243 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:05:21.257245 Data loaded into Order Staging Table
+2022-10-10 03:05:21.258242 Data loaded into Order Items Statging Table
+2022-10-10 03:05:21.258242 MySQL and Postgres Connections Closed 
+2022-10-10 03:07:05.900801 Read Configurations from File
+2022-10-10 03:07:06.166269 Connected to Postgres Successfully
+2022-10-10 03:07:06.260915 Connected to Mysql Successfully
+2022-10-10 03:07:06.367476 Staging Tables Truncated
+2022-10-10 03:07:06.368476 Data loaded into Company Statging Table
+2022-10-10 03:07:06.369476 Data loaded into Supplier Statging Table
+2022-10-10 03:07:06.369476 Data loaded into Customer Statging Table
+2022-10-10 03:07:06.369476 Data loaded into Product Statging Table
+2022-10-10 03:07:06.370477 Data loaded into Company Catalog Statging Table
+2022-10-10 03:07:06.370477 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:07:06.371476 Data loaded into Order Staging Table
+2022-10-10 03:07:06.371476 Data loaded into Order Items Statging Table
+2022-10-10 03:07:06.372476 MySQL and Postgres Connections Closed 
+2022-10-10 03:11:02.369573 Read Configurations from File
+2022-10-10 03:11:02.609656 Connected to Postgres Successfully
+2022-10-10 03:11:02.713162 Connected to Mysql Successfully
+2022-10-10 03:11:02.814723 Staging Tables Truncated
+2022-10-10 03:11:02.816729 Data loaded into Company Statging Table
+2022-10-10 03:11:02.816729 Data loaded into Supplier Statging Table
+2022-10-10 03:11:02.817729 Data loaded into Customer Statging Table
+2022-10-10 03:11:02.818690 Data loaded into Product Statging Table
+2022-10-10 03:11:02.818690 Data loaded into Company Catalog Statging Table
+2022-10-10 03:11:02.819675 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:11:02.820676 Data loaded into Order Staging Table
+2022-10-10 03:11:02.820676 Data loaded into Order Items Statging Table
+2022-10-10 03:11:02.821682 MySQL and Postgres Connections Closed 
+2022-10-10 03:11:42.824552 Read Configurations from File
+2022-10-10 03:11:43.101806 Connected to Postgres Successfully
+2022-10-10 03:11:43.197814 Connected to Mysql Successfully
+2022-10-10 03:11:43.309806 Staging Tables Truncated
+2022-10-10 03:11:43.310807 Data loaded into Company Statging Table
+2022-10-10 03:11:43.310807 Data loaded into Supplier Statging Table
+2022-10-10 03:11:43.311820 Data loaded into Customer Statging Table
+2022-10-10 03:11:43.312820 Data loaded into Product Statging Table
+2022-10-10 03:11:43.312820 Data loaded into Company Catalog Statging Table
+2022-10-10 03:11:43.312820 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:11:43.313816 Data loaded into Order Staging Table
+2022-10-10 03:11:43.313816 Data loaded into Order Items Statging Table
+2022-10-10 03:11:43.314822 MySQL and Postgres Connections Closed 
+2022-10-10 03:15:15.543068 Read Configurations from File
+2022-10-10 03:15:15.769677 Connected to Postgres Successfully
+2022-10-10 03:15:15.871988 Connected to Mysql Successfully
+2022-10-10 03:15:15.963365 Staging Tables Truncated
+2022-10-10 03:15:15.964379 Data loaded into Company Statging Table
+2022-10-10 03:15:15.965369 Data loaded into Supplier Statging Table
+2022-10-10 03:15:15.966686 Data loaded into Customer Statging Table
+2022-10-10 03:15:15.967188 Data loaded into Product Statging Table
+2022-10-10 03:15:15.967188 Data loaded into Company Catalog Statging Table
+2022-10-10 03:15:15.968821 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:15:15.970091 Data loaded into Order Staging Table
+2022-10-10 03:15:15.970593 Data loaded into Order Items Statging Table
+2022-10-10 03:15:15.971525 MySQL and Postgres Connections Closed 
+2022-10-10 03:16:15.229791 Read Configurations from File
+2022-10-10 03:16:15.591392 Connected to Postgres Successfully
+2022-10-10 03:16:15.702784 Connected to Mysql Successfully
+2022-10-10 03:16:15.790577 Staging Tables Truncated
+2022-10-10 03:16:15.791575 Data loaded into Company Statging Table
+2022-10-10 03:16:15.792655 Data loaded into Supplier Statging Table
+2022-10-10 03:16:15.793767 Data loaded into Customer Statging Table
+2022-10-10 03:16:15.795353 Data loaded into Product Statging Table
+2022-10-10 03:16:15.795854 Data loaded into Company Catalog Statging Table
+2022-10-10 03:16:15.797366 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:16:15.797929 Data loaded into Order Staging Table
+2022-10-10 03:16:15.798939 Data loaded into Order Items Statging Table
+2022-10-10 03:16:15.799942 MySQL and Postgres Connections Closed 
+2022-10-10 03:17:10.005346 Read Configurations from File
+2022-10-10 03:17:10.244582 Connected to Postgres Successfully
+2022-10-10 03:17:10.346545 Connected to Mysql Successfully
+2022-10-10 03:17:10.454191 Staging Tables Truncated
+2022-10-10 03:17:10.456199 Data loaded into Company Statging Table
+2022-10-10 03:17:10.457203 Data loaded into Supplier Statging Table
+2022-10-10 03:17:10.458256 Data loaded into Customer Statging Table
+2022-10-10 03:17:10.459221 Data loaded into Product Statging Table
+2022-10-10 03:17:10.459221 Data loaded into Company Catalog Statging Table
+2022-10-10 03:17:10.460207 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:17:10.460207 Data loaded into Order Staging Table
+2022-10-10 03:17:10.461199 Data loaded into Order Items Statging Table
+2022-10-10 03:17:10.462195 MySQL and Postgres Connections Closed 
+2022-10-10 03:20:03.464946 Read Configurations from File
+2022-10-10 03:20:03.676084 Connected to Postgres Successfully
+2022-10-10 03:20:03.768140 Connected to Mysql Successfully
+2022-10-10 03:20:03.863324 Staging Tables Truncated
+2022-10-10 03:20:03.864358 Data loaded into Company Statging Table
+2022-10-10 03:20:03.865322 Data loaded into Supplier Statging Table
+2022-10-10 03:20:03.865322 Data loaded into Customer Statging Table
+2022-10-10 03:20:03.866358 Data loaded into Product Statging Table
+2022-10-10 03:20:03.866358 Data loaded into Company Catalog Statging Table
+2022-10-10 03:20:03.867317 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:20:03.868330 Data loaded into Order Staging Table
+2022-10-10 03:20:03.868330 Data loaded into Order Items Statging Table
+2022-10-10 03:20:03.869344 MySQL and Postgres Connections Closed 
+2022-10-10 03:22:13.672243 Read Configurations from File
+2022-10-10 03:22:14.001988 Connected to Postgres Successfully
+2022-10-10 03:22:14.133355 Connected to Mysql Successfully
+2022-10-10 03:22:14.255742 Staging Tables Truncated
+2022-10-10 03:22:14.257948 Data loaded into Company Statging Table
+2022-10-10 03:22:14.259946 Data loaded into Supplier Statging Table
+2022-10-10 03:22:14.260949 Data loaded into Customer Statging Table
+2022-10-10 03:22:14.261957 Data loaded into Product Statging Table
+2022-10-10 03:22:14.262946 Data loaded into Company Catalog Statging Table
+2022-10-10 03:22:14.263943 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:22:14.263943 Data loaded into Order Staging Table
+2022-10-10 03:22:14.264942 Data loaded into Order Items Statging Table
+2022-10-10 03:22:14.266240 MySQL and Postgres Connections Closed 
+2022-10-10 03:30:27.929592 Read Configurations from File
+2022-10-10 03:30:28.202215 Connected to Postgres Successfully
+2022-10-10 03:30:28.302920 Connected to Mysql Successfully
+2022-10-10 03:30:28.404468 Staging Tables Truncated
+2022-10-10 03:30:28.405521 Data loaded into Company Statging Table
+2022-10-10 03:30:28.405521 Data loaded into Supplier Statging Table
+2022-10-10 03:30:28.406499 Data loaded into Customer Statging Table
+2022-10-10 03:30:28.407522 Data loaded into Product Statging Table
+2022-10-10 03:30:28.408053 Data loaded into Company Catalog Statging Table
+2022-10-10 03:30:28.408053 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:30:28.409064 Data loaded into Order Staging Table
+2022-10-10 03:30:28.410037 Data loaded into Order Items Statging Table
+2022-10-10 03:30:28.410037 MySQL and Postgres Connections Closed 
+2022-10-10 03:32:11.578149 Read Configurations from File
+2022-10-10 03:32:11.872397 Connected to Postgres Successfully
+2022-10-10 03:32:11.989247 Connected to Mysql Successfully
+2022-10-10 03:32:12.099284 Staging Tables Truncated
+2022-10-10 03:32:12.099728 Data loaded into Company Statging Table
+2022-10-10 03:32:12.100910 Data loaded into Supplier Statging Table
+2022-10-10 03:32:12.101914 Data loaded into Customer Statging Table
+2022-10-10 03:32:12.101914 Data loaded into Product Statging Table
+2022-10-10 03:32:12.102915 Data loaded into Company Catalog Statging Table
+2022-10-10 03:32:12.102915 Data loaded into Supplier Catalog Statging Table
+2022-10-10 03:32:12.103912 Data loaded into Order Staging Table
+2022-10-10 03:32:12.103912 Data loaded into Order Items Statging Table
+2022-10-10 03:32:12.104914 MySQL and Postgres Connections Closed 
+2022-10-10 04:17:23.341590 Read Configurations from File
+2022-10-10 04:17:23.588330 Connected to Postgres Successfully
+2022-10-10 04:17:23.680013 Connected to Mysql Successfully
+2022-10-10 04:17:23.782065 Staging Tables Truncated
+2022-10-10 04:17:23.784035 Data loaded into Company Statging Table
+2022-10-10 04:17:23.784035 Data loaded into Supplier Statging Table
+2022-10-10 04:17:23.785098 Data loaded into Customer Statging Table
+2022-10-10 04:17:23.786061 Data loaded into Product Statging Table
+2022-10-10 04:17:23.787022 Data loaded into Company Catalog Statging Table
+2022-10-10 04:17:23.787022 Data loaded into Supplier Catalog Statging Table
+2022-10-10 04:17:23.788079 Data loaded into Order Staging Table
+2022-10-10 04:17:23.789005 Data loaded into Order Items Statging Table
+2022-10-10 04:17:23.789997 MySQL and Postgres Connections Closed 
+2022-10-10 19:28:28.376627 Read Configurations from File
+2022-10-10 19:28:28.608235 Connected to Postgres Successfully
+2022-10-10 19:28:28.702241 Connected to Mysql Successfully
+2022-10-10 19:28:28.794286 Staging Tables Truncated
+2022-10-10 19:28:28.828336 Data loaded into Company Statging Table
+2022-10-10 19:39:56.630129 Read Configurations from File
+2022-10-10 19:39:56.846859 Connected to Postgres Successfully
+2022-10-10 19:39:56.934484 Connected to Mysql Successfully
+2022-10-10 19:39:57.012263 Staging Tables Truncated
+2022-10-10 19:39:57.062083 Data loaded into Company Statging Table
+2022-10-10 19:40:44.933525 Read Configurations from File
+2022-10-10 19:40:45.156216 Connected to Postgres Successfully
+2022-10-10 19:40:45.250047 Connected to Mysql Successfully
+2022-10-10 19:40:45.338057 Staging Tables Truncated
+2022-10-10 19:40:45.379409 Data loaded into Company Statging Table
+2022-10-10 19:40:45.404116 Data loaded into Supplier Statging Table
+2022-10-10 19:40:45.450020 Data loaded into Customer Statging Table
+2022-10-10 19:40:45.467966 Data loaded into Product Statging Table
+2022-10-10 19:40:45.503002 Data loaded into Company Catalog Statging Table
+2022-10-10 19:40:45.549669 Data loaded into Supplier Catalog Statging Table
+2022-10-10 19:40:46.055665 Data loaded into Order Staging Table
+2022-10-10 19:40:47.611986 Data loaded into Order Items Statging Table
+2022-10-10 19:40:47.611986 MySQL and Postgres Connections Closed 
+2022-10-10 19:47:36.632223 Read Configurations from File
+2022-10-10 19:47:36.824397 Connected to Postgres Successfully
+2022-10-10 19:47:36.912676 Connected to Mysql Successfully
+2022-10-10 19:47:36.968024 Staging Tables Truncated
+2022-10-10 19:47:37.012676 Data loaded into Company Statging Table
+2022-10-10 19:47:37.027676 Data loaded into Supplier Statging Table
+2022-10-10 19:47:37.064759 Data loaded into Customer Statging Table
+2022-10-10 19:47:37.080587 Data loaded into Product Statging Table
+2022-10-10 19:47:37.120277 Data loaded into Company Catalog Statging Table
+2022-10-10 19:47:37.164675 Data loaded into Supplier Catalog Statging Table
+2022-10-10 19:47:37.620701 Data loaded into Order Staging Table
+2022-10-10 19:47:38.171535 Data loaded into Order Items Statging Table
+2022-10-10 19:47:38.172599 MySQL and Postgres Connections Closed 
+2022-10-10 19:37:04.586564 Read Configurations from File
+2022-10-10 19:37:04.829092 Connected to Postgres Successfully
+2022-10-10 19:37:04.965020 Connected to Mysql Successfully
+2022-10-10 19:37:04.989528 Staging Tables Truncated
+2022-10-10 19:37:05.030033 Data loaded into Company Statging Table
+2022-10-11 02:39:34.671116 Read Configurations from File
+2022-10-11 02:39:34.920968 Connected to Postgres Successfully
+2022-10-11 02:39:35.031313 Connected to Mysql Successfully
+2022-10-11 02:39:35.073104 Staging Tables Truncated
+2022-10-11 02:39:35.074710 Data loaded into Company Statging Table
+2022-10-11 02:39:35.074710 Data loaded into Supplier Statging Table
+2022-10-11 02:39:35.075676 Data loaded into Customer Statging Table
+2022-10-11 02:39:35.076729 Data loaded into Product Statging Table
+2022-10-11 02:39:35.077751 Data loaded into Company Catalog Statging Table
+2022-10-11 02:39:35.078676 Data loaded into Supplier Catalog Statging Table
+2022-10-11 02:39:35.079735 Data loaded into Order Staging Table
+2022-10-11 02:39:35.080728 Data loaded into Order Items Statging Table
+2022-10-11 02:39:35.081679 MySQL and Postgres Connections Closed 
+2022-10-11 03:03:31.478611 Read Configurations from File
+2022-10-11 03:03:31.737540 Connected to Postgres Successfully
+2022-10-11 03:03:31.833709 Connected to Mysql Successfully
+2022-10-11 03:03:31.848877 Staging Tables Truncated
+2022-10-11 03:03:31.850037 Data loaded into Company Statging Table
+2022-10-11 03:03:31.850037 Data loaded into Supplier Statging Table
+2022-10-11 03:03:31.851216 Data loaded into Customer Statging Table
+2022-10-11 03:03:31.852165 Data loaded into Product Statging Table
+2022-10-11 03:03:31.852165 Data loaded into Company Catalog Statging Table
+2022-10-11 03:03:31.853157 Data loaded into Supplier Catalog Statging Table
+2022-10-11 03:03:31.854161 Data loaded into Order Staging Table
+2022-10-11 03:03:31.855220 Data loaded into Order Items Statging Table
+2022-10-11 03:03:31.855220 MySQL and Postgres Connections Closed 
+2022-10-11 03:03:55.172717 Read Configurations from File
+2022-10-11 03:03:55.398364 Connected to Postgres Successfully
+2022-10-11 03:03:55.490181 Connected to Mysql Successfully
+2022-10-11 03:03:55.501852 Staging Tables Truncated
+2022-10-11 03:03:55.502850 Data loaded into Company Statging Table
+2022-10-11 03:03:55.503902 Data loaded into Supplier Statging Table
+2022-10-11 03:03:55.504851 Data loaded into Customer Statging Table
+2022-10-11 03:03:55.504851 Data loaded into Product Statging Table
+2022-10-11 03:03:55.505862 Data loaded into Company Catalog Statging Table
+2022-10-11 03:03:55.505862 Data loaded into Supplier Catalog Statging Table
+2022-10-11 03:03:55.507734 Data loaded into Order Staging Table
+2022-10-11 03:03:55.508706 Data loaded into Order Items Statging Table
+2022-10-11 03:03:55.509569 MySQL and Postgres Connections Closed 
+2022-10-11 06:33:20.529743 Read Configurations from File
+2022-10-11 06:33:20.754541 Connected to Postgres Successfully
+2022-10-11 06:33:20.889923 Connected to Mysql Successfully
+2022-10-11 06:33:20.935255 Staging Tables Truncated
+2022-10-11 06:33:20.937251 Data loaded into Company Statging Table
+2022-10-11 06:33:20.938277 Data loaded into Supplier Statging Table
+2022-10-11 06:33:20.939288 Data loaded into Customer Statging Table
+2022-10-11 06:33:20.939288 Data loaded into Product Statging Table
+2022-10-11 06:33:20.941224 Data loaded into Company Catalog Statging Table
+2022-10-11 06:33:20.942224 Data loaded into Supplier Catalog Statging Table
+2022-10-11 06:33:20.947751 Data loaded into Order Staging Table
+2022-10-11 06:33:20.949267 Data loaded into Order Items Statging Table
+2022-10-11 06:33:20.949725 MySQL and Postgres Connections Closed 
+2022-10-11 07:05:17.838765 Read Configurations from File
+2022-10-11 07:05:18.052355 Connected to Postgres Successfully
+2022-10-11 07:05:18.151067 Connected to Mysql Successfully
+2022-10-11 07:05:18.163557 Staging Tables Truncated
+2022-10-11 07:05:18.165632 Data loaded into Company Statging Table
+2022-10-11 07:05:18.165632 Data loaded into Supplier Statging Table
+2022-10-11 07:05:18.166567 Data loaded into Customer Statging Table
+2022-10-11 07:05:18.167568 Data loaded into Product Statging Table
+2022-10-11 07:05:18.168566 Data loaded into Company Catalog Statging Table
+2022-10-11 07:05:18.168566 Data loaded into Supplier Catalog Statging Table
+2022-10-11 07:05:18.169570 Data loaded into Order Staging Table
+2022-10-11 07:05:18.170571 Data loaded into Order Items Statging Table
+2022-10-11 07:05:18.171589 MySQL and Postgres Connections Closed 
+2022-10-11 18:50:23.123898 Read Configurations from File
+2022-10-11 18:50:23.404031 Connected to Postgres Successfully
+2022-10-11 18:50:23.535284 Connected to Mysql Successfully
+2022-10-11 18:50:23.545975 Staging Tables Truncated
+2022-10-11 18:50:23.546975 Data loaded into Company Statging Table
+2022-10-11 18:50:23.547975 Data loaded into Supplier Statging Table
+2022-10-11 18:50:23.547975 Data loaded into Customer Statging Table
+2022-10-11 18:50:23.548974 Data loaded into Product Statging Table
+2022-10-11 18:50:23.548974 Data loaded into Company Catalog Statging Table
+2022-10-11 18:50:23.549975 Data loaded into Supplier Catalog Statging Table
+2022-10-11 18:50:23.549975 Data loaded into Order Staging Table
+2022-10-11 18:50:23.550982 Data loaded into Order Items Statging Table
+2022-10-11 18:50:23.551974 MySQL and Postgres Connections Closed 
+2022-10-11 18:52:11.590966 Read Configurations from File
+2022-10-11 18:52:11.821431 Connected to Postgres Successfully
+2022-10-11 18:52:11.918295 Connected to Mysql Successfully
+2022-10-11 18:52:11.930366 Staging Tables Truncated
+2022-10-11 18:52:11.931286 Data loaded into Company Statging Table
+2022-10-11 18:52:11.932287 Data loaded into Supplier Statging Table
+2022-10-11 18:52:11.932287 Data loaded into Customer Statging Table
+2022-10-11 18:52:11.933299 Data loaded into Product Statging Table
+2022-10-11 18:52:11.934296 Data loaded into Company Catalog Statging Table
+2022-10-11 18:52:11.934906 Data loaded into Supplier Catalog Statging Table
+2022-10-11 18:52:11.935852 Data loaded into Order Staging Table
+2022-10-11 18:52:11.936897 Data loaded into Order Items Statging Table
+2022-10-11 18:52:11.936897 MySQL and Postgres Connections Closed 
+2022-10-11 18:53:29.473679 Read Configurations from File
+2022-10-11 18:53:29.702322 Connected to Postgres Successfully
+2022-10-11 18:53:29.789683 Connected to Mysql Successfully
+2022-10-11 18:53:29.800299 Staging Tables Truncated
+2022-10-11 18:53:29.801300 Data loaded into Company Statging Table
+2022-10-11 18:53:29.801300 Data loaded into Supplier Statging Table
+2022-10-11 18:53:29.802299 Data loaded into Customer Statging Table
+2022-10-11 18:53:29.803299 Data loaded into Product Statging Table
+2022-10-11 18:53:29.803299 Data loaded into Company Catalog Statging Table
+2022-10-11 18:53:29.804297 Data loaded into Supplier Catalog Statging Table
+2022-10-11 18:53:29.804297 Data loaded into Order Staging Table
+2022-10-11 18:53:29.805299 Data loaded into Order Items Statging Table
+2022-10-11 18:53:29.806297 MySQL and Postgres Connections Closed 
+2022-10-11 18:54:35.499372 Read Configurations from File
+2022-10-11 18:54:35.703664 Connected to Postgres Successfully
+2022-10-11 18:54:35.794665 Connected to Mysql Successfully
+2022-10-11 18:54:35.805673 Staging Tables Truncated
+2022-10-11 18:54:35.807675 Data loaded into Company Statging Table
+2022-10-11 18:54:35.807675 Data loaded into Supplier Statging Table
+2022-10-11 18:54:35.808680 Data loaded into Customer Statging Table
+2022-10-11 18:54:35.809691 Data loaded into Product Statging Table
+2022-10-11 18:54:35.809691 Data loaded into Company Catalog Statging Table
+2022-10-11 18:54:35.810765 Data loaded into Supplier Catalog Statging Table
+2022-10-11 18:54:35.811719 Data loaded into Order Staging Table
+2022-10-11 18:54:35.811719 Data loaded into Order Items Statging Table
+2022-10-11 18:54:35.812675 MySQL and Postgres Connections Closed 
+2022-10-11 18:57:13.026650 Read Configurations from File
+2022-10-11 18:57:13.261150 Connected to Postgres Successfully
+2022-10-11 18:57:13.355752 Connected to Mysql Successfully
+2022-10-11 18:57:13.367300 Staging Tables Truncated
+2022-10-11 18:57:13.368301 Data loaded into Company Statging Table
+2022-10-11 18:57:13.370378 Data loaded into Supplier Statging Table
+2022-10-11 18:57:13.372307 Data loaded into Customer Statging Table
+2022-10-11 18:57:13.374310 Data loaded into Product Statging Table
+2022-10-11 18:57:13.375300 Data loaded into Company Catalog Statging Table
+2022-10-11 18:57:13.376308 Data loaded into Supplier Catalog Statging Table
+2022-10-11 18:57:13.377307 Data loaded into Order Staging Table
+2022-10-11 18:57:13.378299 Data loaded into Order Items Statging Table
+2022-10-11 18:57:13.379400 MySQL and Postgres Connections Closed 
+2022-10-11 18:57:57.139768 Read Configurations from File
+2022-10-11 18:57:57.370399 Connected to Postgres Successfully
+2022-10-11 18:57:57.466577 Connected to Mysql Successfully
+2022-10-11 18:57:57.477569 Staging Tables Truncated
+2022-10-11 18:57:57.478561 Data loaded into Company Statging Table
+2022-10-11 18:57:57.479561 Data loaded into Supplier Statging Table
+2022-10-11 18:57:57.479561 Data loaded into Customer Statging Table
+2022-10-11 18:57:57.480569 Data loaded into Product Statging Table
+2022-10-11 18:57:57.481569 Data loaded into Company Catalog Statging Table
+2022-10-11 18:57:57.481569 Data loaded into Supplier Catalog Statging Table
+2022-10-11 18:57:57.482561 Data loaded into Order Staging Table
+2022-10-11 18:57:57.483562 Data loaded into Order Items Statging Table
+2022-10-11 18:57:57.484562 MySQL and Postgres Connections Closed 
+2022-10-11 18:58:46.616314 Read Configurations from File
+2022-10-11 18:58:46.795582 Connected to Postgres Successfully
+2022-10-11 18:58:46.887187 Connected to Mysql Successfully
+2022-10-11 18:58:46.899212 Staging Tables Truncated
+2022-10-11 18:58:46.900300 Data loaded into Company Statging Table
+2022-10-11 18:58:46.901287 Data loaded into Supplier Statging Table
+2022-10-11 18:58:46.902201 Data loaded into Customer Statging Table
+2022-10-11 18:58:46.902201 Data loaded into Product Statging Table
+2022-10-11 18:58:46.903201 Data loaded into Company Catalog Statging Table
+2022-10-11 18:58:46.903201 Data loaded into Supplier Catalog Statging Table
+2022-10-11 18:58:46.904253 Data loaded into Order Staging Table
+2022-10-11 18:58:46.905291 Data loaded into Order Items Statging Table
+2022-10-11 18:58:46.905291 MySQL and Postgres Connections Closed 
+2022-10-11 21:42:38.356367 Read Configurations from File
+2022-10-11 21:42:38.617317 Connected to Postgres Successfully
+2022-10-11 21:42:39.001301 Connected to Mysql Successfully
+2022-10-11 21:48:51.296806 Read Configurations from File
+2022-10-11 21:48:51.563663 Connected to Postgres Successfully
+2022-10-11 21:48:51.654161 Connected to Mysql Successfully
+2022-10-11 21:55:12.896151 Read Configurations from File
+2022-10-11 21:55:13.116413 Connected to Postgres Successfully
+2022-10-11 21:55:13.209661 Connected to Mysql Successfully
+2022-10-11 21:55:13.219632 Staging Tables Truncated
+2022-10-11 21:55:13.263336 Data loaded into Company Statging Table
+2022-10-11 21:55:13.272239 Data loaded into Supplier Statging Table
+2022-10-11 21:55:13.280144 Data loaded into Customer Statging Table
+2022-10-11 21:55:13.295865 Data loaded into Product Statging Table
+2022-10-11 21:55:13.320658 Data loaded into Company Catalog Statging Table
+2022-10-11 21:55:13.349820 Data loaded into Supplier Catalog Statging Table
+2022-10-11 21:55:13.371904 Data loaded into Order Staging Table
+2022-10-11 21:55:13.397924 Data loaded into Order Items Statging Table
+2022-10-11 21:55:13.398934 MySQL and Postgres Connections Closed 

@@ -1,0 +1,28 @@
+{
+	"PostgresDBCredentials" : 
+	{
+		"host" : "localhost" ,
+		"user" : "postgres" ,
+		"password" : "Minnie4321#" ,
+		"database" : "B2B" ,
+		"port" : 5432
+	},
+	
+   	 "MysqlDBCredentials" : 
+	{
+		"host" : "localhost" ,
+		"user" : "tarvihafatima" ,
+		"password" : "Minnie4321#" ,
+		"db" : "B2BSourceDB" ,
+		"port" : 3306
+	},
+	
+	"Paths" : 
+	{
+		"weblog_path" : "D:\\B2B_Project\\Sourcing\\WebLog_Sourcing\\",
+		"marketing_path" : "D:\\B2B_Project\\Sourcing\\MarketingLead_Sourcing\\",
+		"location_path" : "D:\\B2B_Project\\Location_Data\\"
+	},
+
+	"DataLag": 1
+}

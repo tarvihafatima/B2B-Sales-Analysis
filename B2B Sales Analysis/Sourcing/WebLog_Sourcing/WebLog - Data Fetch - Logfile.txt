@@ -1,0 +1,23 @@
+2022-10-11 02:57:56.678031 Added Hostname, Host IP, User Identity, User Agent in Handler
+2022-10-11 02:57:56.678031 Set a Format for logging
+2022-10-11 02:57:56.678031 Added the handler to the logger
+2022-10-11 02:58:15.138690 Added a file handler to log in a txt file
+2022-10-11 02:58:18.817366 Added Hostname, Host IP, User Identity, User Agent in Handler
+2022-10-11 02:58:18.817366 Set a Format for logging
+2022-10-11 02:58:18.817366 Added the handler to the logger
+2022-10-11 02:58:39.663814 Added a file handler to log in a txt file
+2022-10-11 07:28:18.499627 Added Hostname, Host IP, User Identity, User Agent in Handler
+2022-10-11 07:28:18.499627 Set a Format for logging
+2022-10-11 07:28:18.499627 Added the handler to the logger
+2022-10-11 07:28:19.754771 Added a file handler to log in a txt file
+2022-10-11 07:28:19.764056 Written the logs in WebLog File 
+2022-10-11 07:29:18.085084 Added Hostname, Host IP, User Identity, User Agent in Handler
+2022-10-11 07:29:18.085084 Set a Format for logging
+2022-10-11 07:29:18.085084 Added the handler to the logger
+2022-10-11 07:29:25.645980 Added a file handler to log in a txt file
+2022-10-11 07:29:25.655132 Written the logs in WebLog File 
+2022-10-11 07:41:31.212335 Added Hostname, Host IP, User Identity, User Agent in Handler
+2022-10-11 07:41:31.212335 Set a Format for logging
+2022-10-11 07:41:31.212335 Added the handler to the logger
+2022-10-11 07:41:41.314076 Added a file handler to log in a txt file
+2022-10-11 07:41:41.324869 Written the logs in WebLog File 
